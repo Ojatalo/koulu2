@@ -86,7 +86,7 @@ Basically, take the same guidance as above: don't be messy, but if you are, clea
 
 [![IMAGE_ALT](https://img.youtube.com/vi/UmX4kyB2wfg/0.jpg)](https://www.youtube.com/watch?v=UmX4kyB2wfg)
 
- ![Karhukoira](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kennelliitto.fi%2Fkoirat%2Fkotimaiset-koirarodut%2Fkarjalankarhukoira&psig=AOvVaw0G1C3CI0bfC9JH3Sv1RDxG&ust=1669647712838000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCs8sjQzvsCFQAAAAAdAAAAABAE)
+ ![Karhukoira](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Karelski_pies_na_nied%C5%BAwiedzie_sylwetka.JPG/800px-Karelski_pies_na_nied%C5%BAwiedzie_sylwetka.JPG)
 
 
   ## Exercise 4
